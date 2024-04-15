@@ -1,0 +1,15 @@
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\bin\Debug\netcoreapp3.1\AWD1100HOT3.exe
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\bin\Debug\netcoreapp3.1\AWD1100HOT3.deps.json
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\bin\Debug\netcoreapp3.1\AWD1100HOT3.runtimeconfig.json
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\bin\Debug\netcoreapp3.1\AWD1100HOT3.runtimeconfig.dev.json
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\bin\Debug\netcoreapp3.1\AWD1100HOT3.dll
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\bin\Debug\netcoreapp3.1\AWD1100HOT3.pdb
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\obj\Debug\netcoreapp3.1\AWD1100HOT3.csprojAssemblyReference.cache
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\obj\Debug\netcoreapp3.1\AWD1100HOT3.Form1.resources
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\obj\Debug\netcoreapp3.1\AWD1100HOT3.csproj.GenerateResource.cache
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\obj\Debug\netcoreapp3.1\AWD1100HOT3.AssemblyInfoInputs.cache
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\obj\Debug\netcoreapp3.1\AWD1100HOT3.AssemblyInfo.cs
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\obj\Debug\netcoreapp3.1\AWD1100HOT3.csproj.CoreCompileInputs.cache
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\obj\Debug\netcoreapp3.1\AWD1100HOT3.dll
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\obj\Debug\netcoreapp3.1\AWD1100HOT3.pdb
+C:\Users\zak\Desktop\Tutoring\AWD 1100 - Zak HOT CH 1-7\AWD1100HOT3\AWD1100HOT3\obj\Debug\netcoreapp3.1\AWD1100HOT3.genruntimeconfig.cache

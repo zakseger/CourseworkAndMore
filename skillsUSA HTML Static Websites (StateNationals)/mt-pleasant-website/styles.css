@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Poppins:wght@200&display=swap%27');
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+*{
+  box-sizing: border-box;
+  margin-top: 5px;
+  font-family: 'Beau Rivage', cursive;
+  font-family: 'Poppins', sans-serif;
+}
+h1{
+  font-family: 'Beau Rivage', cursive;
+  font-size: 4em;
+  margin-top: 10px;
+}
+
+h2{
+  font-size: 3em;
+}
+
+.card{
+  background-color: rgb(229, 237, 240);
+}
+
+.nav{
+  text-align: center;
+  border: lightgray 2px solid;
+  border-radius: 50%;
+  background-color: rgb(229, 237, 240);
+
+}
+p{
+  font-size: 1.2em;
+}
+h3{
+  font-size: 1.5em;
+}
+.nav-item{
+  font-size: 1.3em;
+}
+
+.card-title{
+  font-size: 3.5em;
+  font-family:'Indie Flower', cursive;
+}

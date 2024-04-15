@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Poppins:wght@200&family=Roboto&display=swap');
+
+*{
+	box-sizing: border-box;
+	font-family: 'Beau Rivage', cursive;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+#logo {
+	display: flex;
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 13px;
+	padding-bottom: 5px;
+	padding-top: 20px;
+}
+
+header {
+	border-bottom: 1px solid black;
+
+	margin-top: 13px;
+}
+
+.header-info {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border-bottom: 1px solid black;
+		background-color: #214341;
+		color: white;
+		padding: 30px;
+}
+
+#title {
+	margin: 0;
+	font-size: 3em;
+}
+
+.main-info {
+    padding-top: 50px;
+	display: flex;
+	justify-content: center;
+	background-color: #EBF2E8;
+	padding-bottom: 50px;
+}
+
+.card-image {
+	width: 300px;
+	height: auto;
+}
+
+.card-image-1{
+	width: 250px;
+	height: auto;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	flex-basis: 20%;
+	padding: 30px;
+	text-align: center;
+	border: 1px solid black;
+	background-color: white;
+	font-weight: bold;
+}
+
+.link-img-3 {
+  width: 150px;
+  height: 150px;
+  object-fit: 1;
+}
+
+
+button {
+  background-color: #0095ff;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  box-shadow: rgba(255, 255, 255, .4) 0 1px 0 0 inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.15385;
+  margin: 0;
+  outline: none;
+  padding: 8px .8em;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  white-space: nowrap;
+  margin-bottom: 7px;
+  font-size: 1.1em;
+}
+
+.button-7:hover,
+.button-7:focus {
+  background-color: #07c;
+}
+
+.button-7:focus {
+  box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
+
+.button-7:active {
+  background-color: #0064bd;
+  box-shadow: none;
+}
+
+p {
+	font-size: 1.5em;
+}
+
+h3 {
+	text-align: center;
+}
+
+.how-to-help{
+	font-size: 3em;
+}
+
+h4 {
+	font-size: 2em;
+}
+
+.info-div {
+	display: flex;
+	flex-direction: column;
+	border-top: 1px solid black;
+	padding-top: 50px;
+}
+
+.link-info {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.link-img {
+	width: 300px;
+	height: auto;
+}
+
+.description {
+	flex-direction: column;
+	flex-basis: 30%;
+	align-items: center;
+	justify-content: center;
+}
+
+.title-body {
+	flex-direction: column;
+}
+
+.button-link {
+	display: flex;
+	flex-direction: column;
+	width: 10%;
+	justify-content: center;
+	align-items: center;
+	margin: 30px;
+}
+
+.card-p {
+	flex-basis: 30%;
+}
+
+#banner {
+	margin-top: 50px;
+}
+
+footer {
+	background-color: #79BEB3;
+}
+
+#logo-copy {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	padding-left: 30px;
+	padding-top: 10px;
+}
+
+#copy {
+	display: flex;
+	flex-direction: column;
+	text-align: right;
+	margin-right: 60px;
+	margin-bottom: 60px;
+}
+
+#footer-logo {
+	margin-bottom: 10px;
+	width: 100px;
+	height: auto;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #90EE90;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	color: #005b1e;
+}
+
+@media screen and (max-width: 1000px) {
+	.card {
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	flex-basis: 40%;
+	padding: 30px;
+	text-align: center;
+	border: none;
+	font-weight: bold;
+	background-color: #EBF2E8;
+}
+
+.main-info {
+	flex-direction: column;
+}
+
+.card-image {
+	width: 200px;
+	height: auto;
+}
+
+.card-2 {
+	display: flex;
+	flex-direction: row;
+}
+
+.order-change{
+	order: 2;
+}
+
+.card-p {
+	font-size: 0.8em;
+}
+
+button {
+	font-size: .8em;
+}
+
+h4 {
+	font-size: 1.2em;
+}
+
+.link-img {
+	width: 150px;
+	height: auto;
+}
+
+.link-info {
+	justify-content: space-around;
+}
+
+#copy {
+	font-size: .5em;
+	margin-top: 20px;
+}
+
+#logo-copy {
+	align-items: center;
+}
+}
+
+@media screen and (max-width: 600px) {
+	.link-img {
+		display: none;
+	}
+	
+	.card {
+		margin: none;
+		border: 1px solid black;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		padding: 0px;
+	}
+	
+	.how-to-help {
+		font-size: 1.75em;
+	}
+	
+	.p-desc {
+		font-size: 1em;
+		padding: 10px;
+	}
+	
+	#footer-logo {
+		width: 75px;
+		height: auto;
+	}
+	
+	#title {
+		font-size: 2em;
+	}
+	
+	.main-info {
+		padding-bottom: 0px;
+		padding-top: 0px;
+	}
+	
+	.description {
+		flex-basis: 60%;
+	}
+}

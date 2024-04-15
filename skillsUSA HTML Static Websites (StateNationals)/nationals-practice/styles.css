@@ -1,0 +1,98 @@
+#navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.nav-item {
+  margin-right: 8px;
+  margin-top: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 20%;
+  font-family: 'Bebas Neue', cursive;
+  font-size: xx-large;
+  border: none;
+  background-color: lightblue;
+}
+
+#top-banner {
+  margin-top: 8px;
+  width: 100%;
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  font-family: 'Bebas Neue', cursive;
+  font-size: larger;
+}
+
+#headshot-info {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+  margin-top: 6px;
+}
+
+#headshot {
+  width: 25%;
+  height: 25%;
+  border-right: 1px solid black;
+}
+
+#headshot-text {
+  padding-left: 24px;
+  padding-right: 24px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: xx-large;
+}
+
+#column-signature {
+  display: flex;
+  flex-direction: column;
+}
+
+#signature {
+  width: 23%;
+  margin-left: 50%;
+}
+
+#mountain-jumbotron {
+  width: 100%;
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 600px) {
+  #headshot-info {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    
+  }
+  #headshot {
+    width: 70%;
+    height: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    border-right: 1px solid black;
+    justify-content: center;
+  }
+  #navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .nav-item {
+    margin-right: 8px;
+    margin-top: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+    border: none;
+    background-color: lightblue;
+  }
+}

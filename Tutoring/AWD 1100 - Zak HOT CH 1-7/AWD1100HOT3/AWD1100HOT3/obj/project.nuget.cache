@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "op453yKMWqdo+Nxe+CAxk/2cUiiauau8jvK8hvFURI+drNModcYwr+r4YnSMJsBIHuIIe+Wp66Ra9wdiXmZOUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zak\\Desktop\\Tutoring\\AWD 1100 - Zak HOT CH 1-7\\AWD1100HOT3\\AWD1100HOT3\\AWD1100HOT3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

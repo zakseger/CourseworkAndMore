@@ -1,0 +1,7 @@
+D:\rankenProjects\Tutoring\Test\Test\bin\Debug\Test.exe.config
+D:\rankenProjects\Tutoring\Test\Test\bin\Debug\Test.exe
+D:\rankenProjects\Tutoring\Test\Test\bin\Debug\Test.pdb
+D:\rankenProjects\Tutoring\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\rankenProjects\Tutoring\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\rankenProjects\Tutoring\Test\Test\obj\Debug\Test.exe
+D:\rankenProjects\Tutoring\Test\Test\obj\Debug\Test.pdb
